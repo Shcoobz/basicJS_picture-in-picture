@@ -1,4 +1,4 @@
-# Picture in Picture
+# [LIVE DEMO](https://shcoobz.github.io/picture-in-picture/) -> Picture in Picture
 
 ![Picture in Picture](img/picture-in-picture.png)
 
@@ -9,7 +9,7 @@ This is a simple web application that allows users to use the Picture in Picture
 
 ## Table of Contents
 
-- [Picture in Picture](#picture-in-picture)
+- [LIVE DEMO -\> Picture in Picture](#live-demo---picture-in-picture)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
