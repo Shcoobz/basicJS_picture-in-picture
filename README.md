@@ -1,68 +1,42 @@
-# [LIVE DEMO](https://shcoobz.github.io/picture-in-picture/) -> Picture in Picture
+# Picture in Picture -> [LIVE DEMO](https://shcoobz.github.io/picture-in-picture/)
 
 ![Picture in Picture](img/picture-in-picture.png)
 
-This is a simple web application that allows users to use the Picture in Picture feature of modern browsers. It's a great introduction to working with media streams and browser APIs.
+## Summary
 
-[Live Demo](https://shcoobz.github.io/picture-in-picture/)
-[GitHub Repository](https://github.com/Shcoobz/picture-in-picture)
+Picture in Picture is a straightforward web application that demonstrates the use of the Picture in Picture (PiP) functionality in modern web browsers. By leveraging browser APIs and media streams, it allows users to watch video content in a floating window that stays on top of other windows, enabling multitasking on the web.
 
-## Table of Contents
+The core functionality includes:
 
-- [LIVE DEMO -\> Picture in Picture](#live-demo---picture-in-picture)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Future Plans](#future-plans)
-
-## Overview
-
-The Picture in Picture web application is an interactive tool designed to demonstrate the capabilities of modern web browsers in handling video streams. This project utilizes HTML5, CSS, and JavaScript to create a user-friendly interface where users can play a video in Picture in Picture mode, allowing them to watch video content while interacting with other applications or websites. The project is particularly valuable for those new to web development, offering insights into browser APIs, media stream handling, and responsive web design.
+- Enabling PiP mode for video streams within the browser.
+- Utilizing browser media streams to select and play videos.
+- Offering a responsive and intuitive interface for a seamless user experience.
 
 ## Features
 
-- **Picture in Picture Functionality:** Enables users to watch a video in a floating window always on top of other windows.
-- **Easy Media Stream Access:** Integrates with the browser's native media device capabilities to capture and display video streams.
-- **Responsive Design:** Adapts to various screen sizes for consistent user experience across devices.
-- **Simplified User Interface:** Offers a clean and intuitive interface with minimalistic design for ease of use.
-- **Customizable Video and Button Styles:** Utilizes CSS for flexible styling of video playback and control elements.
+### Picture in Picture Mode
 
-## Installation
+Allows users to watch videos in a floating window that can be moved and resized, enabling them to continue viewing content while interacting with other sites or applications.
 
-1. Clone this repository:
+### Browser Media Stream Integration
 
-   ```bash
-   git clone https://github.com/yourusername/picture-in-picture.git
-   ```
+The application integrates with the browser's media stream API to facilitate easy access and control of video content, demonstrating the capabilities of modern web development.
 
-## Usage
+### Responsive and Intuitive Design
 
-To use the application, simply open the index.html file in a modern web browser. Follow these steps:
+The design of the application is both responsive, ensuring it works well on devices of various sizes, and intuitive, making it easy for users to engage with the PiP functionality.
 
-1. Click the "START" button to initiate the media stream.
-2. Allow the browser to access your screen or window for streaming.
-3. The video will then play in a Picture in Picture window, which you can move and resize at your convenience.
+### Additional Features
 
-## Contributing
+- **Simplified User Experience:** Focuses on simplicity and ease of use, with minimal clicks required to activate PiP mode.
+- **Customizable Appearance:** Users have the option to customize the look and feel of the video player and controls via CSS.
 
-Contributions to improve the Picture in Picture application are warmly welcomed. Whether it's bug fixing, feature additions, or documentation improvements, your help is appreciated. Here's how you can contribute:
+## Technologies
 
-1. Fork the repository.
-2. Create a new branch: git checkout -b feature/your-feature-name.
-3. Make your changes and commit them: git commit -m "Add a brief description of your changes".
-4. Push to the branch: git push origin feature/your-feature-name.
-5. Submit a pull request to the original repository.
+- **HTML/CSS:** Used for structuring and styling the application's user interface.
+- **JavaScript:** Implements the logic for activating PiP mode, handling media streams, and interacting with the browser API.
+- **Browser API:** Utilizes the Picture in Picture API provided by modern browsers to offer the PiP functionality.
 
-## License
+---
 
-This project is licensed under the MIT License. For more details, see the LICENSE file in the project repository.
-
-## Future Plans
-
-1. Integration with Multiple Video Sources: Expand functionality to include various video streaming services.
-2. Customizable Player Controls: Add options to customize the video player controls.
-3. Enhanced User Interaction: Implement additional features like volume control and playback speed adjustment.
+_Note: This document provides an overview of Picture in Picture. For detailed instructions and more information, please refer to the source code documentation._
