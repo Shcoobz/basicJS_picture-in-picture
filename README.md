@@ -1,4 +1,4 @@
-# basicJS_Picture in Picture -> [LIVE DEMO](https://shcoobz.github.io/basicJS_picture-in-picture/)
+# basicJS_Picture in Picture: [LIVE DEMO](https://shcoobz.github.io/basicJS_picture-in-picture/)
 
 ![Picture in Picture](img/basicJS_picture-in-picture.png)
 
