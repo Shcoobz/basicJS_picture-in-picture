@@ -40,3 +40,5 @@ The design of the application is both responsive, ensuring it works well on devi
 ---
 
 _Note: This document provides an overview of Picture in Picture. For detailed instructions and more information, please refer to the source code documentation._
+
+_This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/react_picture-in-picture/). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability._
